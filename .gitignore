@@ -6,6 +6,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+abt.csv:Zone.Identifier
+poetry.lock
 
 # C extensions
 *.so
